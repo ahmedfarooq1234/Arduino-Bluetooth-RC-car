@@ -1,5 +1,5 @@
 # Arduino-Bluetooth-RC-car
-<img src="https://github.com/momonarie22/Arduino-Bluetooth-RC-car/blob/master/images/20170513_223727.jpg" width="400">
+[<img src="https://github.com/momonarie22/Arduino-Bluetooth-RC-car/blob/master/images/20170513_223727.jpg" width="400">](https://youtu.be/4j03MV736Lg "Arduino Bluetooth Car")
 
 ## Description:
 This is a step by step guide on how to make a robotic car that you can control using your smartphone. It uses a bluetooth module and a bluetooth adroid app to sends commands to an Arduino Uno. It simply turns left, right, forward and back, but additional functionalities can be included. 
